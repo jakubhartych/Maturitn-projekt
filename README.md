@@ -13,7 +13,7 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu.
 ---
 
 ## 📑 Obsah a struktura
-* `/dokumentace` – Průvodní zpráva a textové dokumenty
+* `/dokumentace` – textové soubory a dokumenty
 * `/prilohy` – Obrázky, schémata a další podklady
 
 ---
