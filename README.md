@@ -1,7 +1,7 @@
 # 🎓 Maturitní projekt (2026/2027)
 
 Úložiště k maturitnímu projektu.
-Zde lze najít všechny podklady, dokumentaci a informace o průběhu.
+Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 
 ---
 
